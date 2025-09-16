@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>exemplos_pacotes</name>
+=======
+	<name>DesafioControleFluxo</name>
+>>>>>>> branch 'main' of https://github.com/mauro-carlos/controle-fluxo-excecoes.git
 	<comment></comment>
 	<projects>
 	</projects>
