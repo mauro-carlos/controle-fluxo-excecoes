@@ -1,1 +1,8 @@
 /bin/
+/.classpath
+/.gitignore
+/.project
+/.settings/
+/.vscode/
+/README.md
+/src/
